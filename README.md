@@ -4,6 +4,8 @@
 
 ### ***GIT HUB REPO link***
 
+Please see the notebook link below : https://github.com/chandan-banerjee/capstone_draft_mod20/blob/main/capstone_analysis_with_feature_engg.ipynb
+
 # Executive summary
 
 1. This project develops an interpretable machine learning framework that evaluates clinical and behavioral data to predict the risk of mental health conditions. By identifying high-risk individuals early, this tool empowers clinicians and patients to implement proactive, personalized interventions before acute crises occur
