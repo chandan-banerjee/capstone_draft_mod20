@@ -1,21 +1,40 @@
 ### Project Title
 
-**Author**
+# Capstone Project - Mental Illness Risk prediction
+
+# ***GIT HUB REPO link***
 
 #### Executive summary
+
+1. This project develops an interpretable machine learning framework that evaluates clinical and behavioral data to predict the risk of mental health conditions. By identifying high-risk individuals early, this tool empowers clinicians and patients to implement proactive, personalized interventions before acute crises occur
+
+2. At the sametime this framework should NOT miss any low/medium RISK patients who can develop mental illness in future
+
+3. Evaluation Metrics: Evaluated primarily on Recall, F1-Score, and AUC-ROC to minimize false negatives( MAXIMIZE recall ) and ensure maximum safety in medical triage
 
 #### Rationale
 Why should anyone care about this question?
 
+1. **For Patients:** Shifts the focus toward prevention rather than just symptom management. Early risk detection allows individuals to seek support before conditions escalate, improving long-term quality of life
+
+2. **For Clinicians:** Acts as a powerful clinical decision-support tool. By automatically analyzing vast datasets like Electronic Health Records, algorithms help doctors identify subtle warning signs that might be missed during brief routine checkups
+
+3. Identifying mental illness risk via machine learning transforms psychiatric care from reactive to proactive.
+
 #### Research Question
 What are you trying to answer?
 
+# How can I identify and predict Mental Health Risk factors which is a serious global challenge ? The  conditions like  Anxiety and Depression are the most common disorders globally and saw a massive surge in prevalence over the past three decades
+
 #### Data Sources
 What data will you use to answer you question?
-I will use Kaggle data source. https://www.kaggle.com/datasets/guriya79/mental-health-disorder
+
+# I used Kaggle data source: https://www.kaggle.com/datasets/guriya79/mental-health-disorder
 
 #### Methodology
 What methods are you using to answer the question?
+
+# Class imbalance analysis, PCA , Correlation Matrix analysis, Encoding input features, target encoding (as appropriate), different multi-class classification model comparison, ROC-AUC, Recall & F1 score comparison  to see which algorithm produces better results for this Use Case .
 
 #### Results
 What did your research find?
@@ -35,11 +54,13 @@ What did your research find?
 #### Next steps
 What suggestions do you have for next steps?
 
+Will be filled up later during final submission
+
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+Will be filled up later during final submission
 
 
 ##### Contact and Further Information
+
+Will be filled up later during final submission
