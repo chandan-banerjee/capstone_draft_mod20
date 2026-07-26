@@ -12,7 +12,9 @@ Please see the notebook link below : https://github.com/chandan-banerjee/capston
 
 2. At the sametime this framework should NOT miss any low/medium RISK patients who can develop mental illness in future
 
-3. Evaluation Metrics: Evaluated primarily on Recall, F1-Score, and AUC-ROC to minimize false negatives( MAXIMIZE recall ) and ensure maximum safety in medical triage
+3. Evaluation Metrics: Evaluated primarily on Recall, F1-Score, and AUC-ROC to minimize false negatives( MAXIMIZE recall ) and ensure maximum safety in medical triage.
+
+4. Mental Risk Prediction is a multi class classification project where a patient can be categorized as 'Low Risk', 'Medium Risk' or 'High Risk' depending on their socioeconomic factors , clinical factors & past treatment/medical history.
 
 # Rationale
 Why should anyone care about this question?
