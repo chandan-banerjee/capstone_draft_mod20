@@ -28,17 +28,27 @@ Why should anyone care about this question?
 # Research Question
 What are you trying to answer?
 
-### How can I identify and predict Mental Health Risk factors which is a serious global challenge ? The  conditions like  Anxiety and Depression are the most common disorders globally and saw a massive surge in prevalence over the past three decades
+- How can I identify and predict Mental Health Risk factors which is a serious global challenge ? 
+- The  conditions like  Anxiety and Depression are the most common disorders globally and saw a massive surge in prevalence over the past three decades
 
 # Data Sources
 What data will you use to answer you question?
 
-### I used Kaggle data source: https://www.kaggle.com/datasets/guriya79/mental-health-disorder
+- I used Kaggle data source: https://www.kaggle.com/datasets/guriya79/mental-health-disorder
 
 # Methodology
 What methods are you using to answer the question?
 
-### Class imbalance analysis, PCA , Correlation Matrix analysis, Encoding input features, target encoding (as appropriate), different multi-class classification model comparison, ROC-AUC, Recall & F1 score comparison  to see which algorithm produces better results for this Use Case .
+I will use following techniques:
+
+1. Class imbalance analysis
+2. Data skewness check
+3. PCA 
+4. Correlation Matrix analysis
+5. Encoding input features
+6. Different multi-class classification algorithm comparison
+7. ROC-AUC analysis
+8. Precision, Recall & F1 score comparison  to identify which algorithm produces better results for this Use Case.
 
 # Results
 What did your research find?
